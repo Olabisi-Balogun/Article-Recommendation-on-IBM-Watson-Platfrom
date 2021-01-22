@@ -1,6 +1,6 @@
 ### Project Motivation
 The goal of the project is to apply the three main recommendation algorithms - rank-based, user-user based collaborative filtering, 
-and content based recommenddation system to recommend articles to readers on the IBM Watson Platform.
+and content based recommendation system to recommend articles to readers on the IBM Watson Platform.
 
 ### Built with
 * Anaconda using python 3
