@@ -1,5 +1,5 @@
 ### Project Motivation
-The goal of the project is to apply three main recommendation algoritms - rank-based, user-user based collaborative filtering, 
+The goal of the project is to apply the three main recommendation algorithms - rank-based, user-user based collaborative filtering, 
 and content based recommenddation system to recommend articles to readers on the IBM Watson Platform.
 
 ### Built with
